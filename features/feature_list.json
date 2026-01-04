@@ -1,0 +1,19 @@
+{
+  "features": [
+    "log_amt",
+    "time_since_last_txn",
+    "hour",
+    "day_of_week",
+    "rolling_mean_amt",
+    "rolling_std_amt",
+    "rolling_txn_count",
+    "amt_zscore_card",
+    "city_pop",
+    "lat",
+    "long",
+    "merch_lat",
+    "merch_long"
+  ],
+  "version": "v1.0",
+  "notes": "Behavioral features validated for unsupervised anomaly detection. Labels excluded."
+}
