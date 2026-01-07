@@ -4,3 +4,14 @@ __pycache__/
 .env
 mlflow.db
 mlruns/
+.venv/
+
+data/
+*.csv
+*.parquet
+*.npy
+
+models/
+checkpoints/
+outputs/
+
