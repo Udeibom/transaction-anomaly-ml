@@ -1,0 +1,11 @@
+model: isolation_forest_v1
+thresholding:
+  method: percentile
+  candidates:
+    - alert_rate: 0.005
+      description: conservative
+    - alert_rate: 0.01
+      description: baseline
+    - alert_rate: 0.02
+      description: aggressive
+default_alert_rate: 0.01
