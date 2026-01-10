@@ -1,0 +1,4 @@
+{"request_id": "524bb7ac-e023-45a6-b80a-96f382c9d9a5", "anomaly_score": 0.8067697934751716, "threshold": 3.5, "is_anomaly": false, "timestamp": "2026-01-10T02:13:58.330243"}
+{"request_id": "89f8db90-fcb4-4a57-b093-33ad3acc8b66", "anomaly_score": 0.8067697934751716, "threshold": 3.5, "is_anomaly": false, "timestamp": "2026-01-10T02:15:10.258081"}
+{"request_id": "cbc61c9e-f5d6-42de-9f55-ed3b38807cac", "anomaly_score": 0.7919435587421192, "threshold": 3.5, "is_anomaly": false, "timestamp": "2026-01-10T02:15:37.552355"}
+{"request_id": "2e4ee3ae-a9f8-4f0a-a004-a1fc884c2d80", "anomaly_score": 0.8067697934751716, "threshold": 3.5, "is_anomaly": false, "timestamp": "2026-01-10T02:15:58.993152"}
